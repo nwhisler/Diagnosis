@@ -1,1 +1,1 @@
-# Diagnosis
+### Contains a python file that parses and processes a medical dataset and then trains and tests a Random Forest Classifier to make predictions to determine an individuals diagnosis and treatment plan based on features such as symptoms, age, heart rate, blood pressure, temperature, etc. The second python file is an application that generates a GUI to collect the data needed to make a diagnosis, severity, and treatment plan prediction. Use the Diagnosis_App.py if you want to check symptoms or to retrain models from scratch use Diagnosis.py.
