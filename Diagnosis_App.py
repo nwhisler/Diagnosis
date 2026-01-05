@@ -3,17 +3,6 @@ import pickle
 import tkinter as tk
 import numpy as np
 
-"""
-29
-Male
-Cough
-Shortness of breath
-Headache
-110
-98.6
-109/73
-"""
-
 class Diagnosis_App:
 
     #Initializes syptoms, genders, and a values list.
@@ -218,3 +207,4 @@ if __name__ == "__main__":
             print("Treatment Plan: ", diagnosis_app.treatment_targets[treatment_plan_prediction[0]])
 
         
+
